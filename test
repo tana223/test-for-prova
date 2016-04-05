@@ -250,3 +250,4 @@ structure(list(coefficients = structure(c(-0.163005580341409,
     100L), class = "data.frame")), .Names = c("coefficients", 
 "residuals", "effects", "rank", "fitted.values", "assign", "qr", 
 "df.residual", "xlevels", "call", "terms", "model"), class = "lm")
+# uela li
